@@ -1,0 +1,472 @@
+.new{
+    margin: 50px  0 0 40%;
+    border: 2px solid gold;
+    background-color: black;
+    height: 600px;
+    width: 300px;
+    border-radius: 30px;
+    position: relative;
+    cursor: default;
+}
+.bla{
+    height: 5px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: white;
+    position: absolute;
+    bottom: 1%;
+    left: 110px;
+}
+.chat{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    background-color: grey;
+    border-radius: 0 0 8px 8px;
+    top:90%;
+}
+.btn
+{
+    background: none;
+    border: none;
+}
+.ico:focus-within{
+    color: darkturquoise;
+ }
+.icofont-ui-movie{
+    position: relative;
+    margin-left: 15px;
+}
+.ico{
+    border: none;
+    background: none;
+}
+.down{
+    position: absolute;
+    bottom: 40px;
+    color: red;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    font-family: cursive;
+    display: none;
+}
+.drop:focus-within .down{
+    display: block;
+}
+.rec{
+    font-size: 10px;
+    color: gray;
+  border-bottom: 1px solid gray;
+}
+.mls{
+    overflow: auto;
+    height: 290px;
+}
+.asu{
+    display: flex;
+    align-items: center;
+    margin-top: -13px;
+    border-bottom: 2px solid gray;
+}
+.vict{
+    color: white;
+}
+#sea{
+    position: relative;
+    padding: 4px 35px;
+    border-radius: 10px;
+    margin: 0 10px 10px 10px;
+    background-color: rgba(128, 128, 128, 0.527);
+}
+.icofont-search{
+    position: absolute;
+    left: 20px;
+    top: 4px;
+    color: rgba(255, 255, 255, 0.863);
+}
+.pin{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid gray;
+    background-color: gray;
+}
+.img2{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px dashed darkturquoise;
+    margin-right: 10px;
+}
+.myk{
+    color: white;
+    padding-right:80px;
+}
+.icofont-camera-alt{
+    padding-left: 10px;
+    color:darkturquoise;
+}
+.icofont-pencil{
+  padding-right: 4px;
+  color:darkturquoise;
+}
+.sta{
+    position: absolute;
+}
+.pr{
+    margin: 0 10px;
+    font-size: 14px;
+    font-weight: 500;
+    color:darkturquoise;
+}
+.st{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin: 10px;
+}
+.icofont-ui-call{
+    position: relative;
+    margin-left: 10px;
+}
+.drop3:focus-within .down3{
+    display: block;
+}
+.down3{
+    position: absolute;
+    bottom: 40px;
+     right: 0;
+    color: red;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    font-family: cursive;
+    display: none;
+}
+.icofont-phone{
+    color: darkturquoise;
+    padding-right: 10px;
+    font-size: 25px;
+}
+.mis{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.all{
+    display: flex;
+    align-items: center;
+}
+.pls{
+    padding: 2px 8px;
+    border:none;
+    background-color: gray;
+    color: white;
+}
+.sed{
+    padding: 2px 8px;
+    border:none;
+    background-color: rgba(34, 32, 32, 0.397);
+    color: white;
+}
+.cet{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin:40px 0 0 10px;
+    color: white;
+}
+
+.drop2:focus-within .down2{
+    display: block;
+}
+.down2{
+    position: absolute;
+    bottom: 40px;
+     right: 0;
+    color: red;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    font-family: cursive;
+    display: none;
+}
+.com{
+    margin-left: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.ti9{
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    color: white;
+    margin: 0 10px 10px 10px;
+    border-radius: 20px;   
+}
+.icofont-users{
+    color: white;
+    margin:0 10px ;
+    background-color: rgba(240, 248, 255, 0.575);
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 4px;
+}
+.jpg{
+    height: 40px;
+    width: 60px;
+    border-radius: 100%;
+    padding-left: 10px;
+}
+.drop4:focus-within .down4{
+    display: block;
+}
+.down4{
+    position: absolute;
+    bottom: 40px;
+     right: 0;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 515px;
+    font-family: cursive;
+    display: none;  
+}
+.may{
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.438);
+    border-radius: 10px;
+    padding: 10px 0 0 0;
+}
+.maya{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.329);
+}
+
+.icofont-qr-code{
+    padding-right: 10px;
+}
+.olu{
+    padding-right: 80px;
+}
+.swe{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+.ava{
+    font-size: 10px;
+    font-family: sans-serif;
+    font-weight: 500
+}
+.icofont-panda-face{
+    background-color: rgba(0, 110, 255, 0.856);
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+.lin{
+    background-color: rgba(128, 128, 128, 0.438);
+    border-radius: 10px;
+    margin: 7px 0;  
+}
+.icofont-star{
+    background-color: yellow;
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-laptop{
+    background-color: rgb(92, 145, 92);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-key{
+    background-color: rgba(40, 25, 197, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-key-hole{
+    background-color: rgba(25, 143, 197, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-whatsapp{
+    background-color: rgba(25, 197, 68, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-notification{
+    background-color: rgba(197, 25, 25, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-long-arrow-up{
+    background-color: rgba(25, 197, 82, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-info{
+    background-color: rgba(57, 25, 197, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.icofont-ui-love{
+    background-color: rgba(197, 25, 25, 0.932);
+    color: white;
+    padding: 4px;
+    margin:0 10px ;
+    border-radius: 5px;
+}
+.one:hover{
+   color: darkturquoise;
+}
+.icofont-people{
+    margin-left: 30px;
+}
+.icofont-wechat{
+    margin-left: 10px;
+}
+.icofont-gear{
+    margin-left: 20px;
+}
+.fir{
+    background-color: white;
+    height: 24px;
+    width: 120px;
+    border-radius: 0 0 10px 10px;
+}
+.fol{
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin-top: -18px;
+}
+.fur{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.time{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.lte{
+    color: white;
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: 400;
+    padding: 0 5px;
+}
+.icofont-battery-empty{
+    color: white;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.edi{
+    color:darkturquoise;
+    padding-left: 10px;
+}
+.icofont-camera{
+padding-left:180px;
+color: darkturquoise;
+}
+.icofont-tick-boxed{
+    padding-right: 10px;
+    color: darkturquoise;
+}
+.cha{
+ color: white;
+ font-size: 30px;
+ font-family: cursive;
+ font-weight: 800;
+ margin: -15px 0 0 10px;
+}
+.third{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding-bottom: 0;
+}
+.bro{
+  color: darkturquoise;
+  font-family:cursive ;
+  padding: 0 8px;
+}
+.case{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    color: white;
+    margin-top:  -15px;
+}
+.four{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+    color: darkturquoise;
+     border-bottom: 2px solid gray;
+}
+.sec{
+ padding-right:8px;
+ color: darkturquoise;
+}
+.icofont-gift-box{
+    padding-left: 10px;
+}
+.arc{
+    padding-right:180px ;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.over{
+    overflow:scroll;
+    height: 378px;
+}
+.base{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   margin:0;
+   color: white;
+   border-bottom: 2px solid gray;
+}
+.don{
+    display: flex ;
+}
+.typ{
+    color: gray;
+    font-size: 13px;
+}
+.vic{
+    padding-right: 100px;
+    font-weight: 900;
+}
